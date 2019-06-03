@@ -46,5 +46,6 @@
   "dependencies": {
     "@financial-times/load-data": "^1.0.12",
     "d3": "^5.9.2"
-  }
+  },
+  "private": false
 }
