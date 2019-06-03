@@ -24,7 +24,13 @@
       ]
     ]
   },
-  "keywords": [],
+  "keywords": [
+    "data"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Financial-Times/ig-vv-parse.git"
+  },
   "author": "Ændrew Rininsland <andrew.rininsland@ft.com>",
   "license": "ISC",
   "devDependencies": {
