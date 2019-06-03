@@ -25,7 +25,7 @@
     ]
   },
   "keywords": [],
-  "author": "",
+  "author": "Ændrew Rininsland <andrew.rininsland@ft.com>",
   "license": "ISC",
   "devDependencies": {
     "@pika/pack": "^0.3.7",
