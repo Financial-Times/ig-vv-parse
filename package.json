@@ -1,6 +1,6 @@
 {
   "name": "@financial-times/vv-parse",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Visual Vocabulary Templates data munging tools",
   "main": "index.js",
   "scripts": {
